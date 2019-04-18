@@ -1,0 +1,17 @@
+#header {
+    color: lime;
+    background: linear-gradient(to bottom, #ff5050 0%, #0066ff 100%);
+}
+
+#sin {
+    color: lime;
+    background: linear-gradient(to bottom, #ff5050 0%, #0066ff 100%);
+}
+
+
+#sun {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0;
+}
