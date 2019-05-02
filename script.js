@@ -1,0 +1,3 @@
+   $(".sin").click(function(){
+  
+   });
